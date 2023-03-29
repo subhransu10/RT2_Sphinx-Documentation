@@ -98,7 +98,7 @@ Finally, I need to update my documentation online on GitHub, so that it could be
 Use GitHub to publish your doucmentation online. For this, follow the steps given below:
 
 Because it's a Sphinx documentation,so i added an empty file, in the __docs folder__, named ".nojekyll" (this is needed for using the sphinx layout).
-Lastly,I went to Settings of GitHub repository (for which I created documentation and need to create website link for the same) -> Pages.
+Lastly,I went to Settings of GitHub repository (for which I created documentation and need to create website link for the same) -> Pages.The __docs__ folder can be found [here](https://github.com/subhransu10/RT2_Sphinx-Documentation/tree/master).
 On Pages section,I made changes under GitHub Pages -> Branch.Then, I changed branch from none to main, and /root folder to /docs. Finally,I saved the settings and  an url got activated to visualize the documentation.
 
 To view the documentation visit the link given below:
