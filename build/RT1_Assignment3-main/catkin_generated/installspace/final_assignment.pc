@@ -1,0 +1,8 @@
+prefix=/home/subhransu/Desktop/RT1_Assignment3-Subhransu/install
+
+Name: final_assignment
+Description: Description of final_assignment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

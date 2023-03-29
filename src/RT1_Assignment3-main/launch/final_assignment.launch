@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+	<node pkg="final_assignment" type="user_interface.py" name="user_interface" required="true" launch-prefix="xterm -e" />
+
+	<node pkg="final_assignment" type="goal_reaching.py" name="goal_reaching" required="true" launch-prefix="xterm -e" />
+
+	<node pkg="final_assignment" type="teleop.py" name="teleop" required="true" launch-prefix="xterm -e" />
+
+</launch>
